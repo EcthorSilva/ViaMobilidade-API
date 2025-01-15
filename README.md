@@ -89,7 +89,7 @@ Aqui estão algumas das estações que consegui descobrir até o momento na Linh
 - SOC - [Socorro](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=SOC)  
 - SAM - [Santo Amaro](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=SAM)  
 - JOD - [João Dias](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=JOD)  
-- GRJ - [Granja Julieta](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=GRJ)  
+- GJT - [Granja Julieta](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=GJT)  
 
 ### 2. Endpoint lines  
 **URL**: `https://apim-proximotrem-prd-brazilsouth-001.azure-api.net/api/v1/lines`
