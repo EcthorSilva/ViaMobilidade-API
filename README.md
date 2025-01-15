@@ -101,6 +101,29 @@ Após limpar os logs, esperei por uma nova requisição e, ao parar de gravar, c
 - PAL - [Presidente Altino](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=PAL)  
 - OSA - [Osasco](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=OSA)  
 
+#### Lista de Estações da Linha 8 - Diamante 
+
+- IPV
+- ECD
+- SCO
+- JDI
+- JSI
+- JBE
+- BRU
+- AJO
+- STE
+- CPB
+- GMC
+- QTU
+- CSA
+- OSA
+- PAL
+- ILE
+- DMO
+- LAB
+- BFU
+- JPR
+
 ### 2. Endpoint lines  
 **URL**: `https://apim-proximotrem-prd-brazilsouth-001.azure-api.net/api/v1/lines`  
 **Método**: **GET**  
