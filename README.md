@@ -92,9 +92,9 @@ Aqui estão algumas das estações que consegui descobrir até o momento na Linh
 - GJT - [Granja Julieta](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=GJT)  
 
 ### 2. Endpoint lines  
-**URL**: `https://apim-proximotrem-prd-brazilsouth-001.azure-api.net/api/v1/lines`
-**Método**: **GET**
-**Resposta**:
+**URL**: `https://apim-proximotrem-prd-brazilsouth-001.azure-api.net/api/v1/lines`  
+**Método**: **GET**  
+**Resposta**:  
 
 ```json
 {
