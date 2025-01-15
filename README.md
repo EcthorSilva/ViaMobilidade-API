@@ -79,7 +79,6 @@ Após limpar os logs, esperei por uma nova requisição e, ao parar de gravar, c
 - status: O status do trem, como "deslocamento" ou "plataforma".
 
 #### Lista de Estações da Linha 9 - Esmeralda  
-Aqui estão algumas das estações que consegui descobrir até o momento na Linha 9 - Esmeralda:
 
 - MVN - [Mendes Vila Natal](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=MVN)  
 - GRA - [Grajaú](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=GRA)  
@@ -90,6 +89,17 @@ Aqui estão algumas das estações que consegui descobrir até o momento na Linh
 - SAM - [Santo Amaro](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=SAM)  
 - JOD - [João Dias](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=JOD)  
 - GJT - [Granja Julieta](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=GJT)  
+- MRB - [Morumbi - Claro](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=MRB)  
+- BRR - [Berrini](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=BRR)  
+- VOL - [Vila Olímpia](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=VOL)  
+- CJD - [Cidade Jardim](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=CJD)  
+- HBR - [Hebraica - Rebouças](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=HBR)  
+- PIN - [Pinheiros](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=PIN)  
+- USP - [Cidade Universitária](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=USP)  
+- JAG - [Villa Lobos - Jaguaré](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=JAG)  
+- CEA - [Ceasa](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=CEA)  
+- PAL - [Presidente Altino](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=PAL)  
+- OSA - [Osasco](https://proximotrem.viamobilidade.com.br/?linha=L9&estacao_origem=OSA)  
 
 ### 2. Endpoint lines  
 **URL**: `https://apim-proximotrem-prd-brazilsouth-001.azure-api.net/api/v1/lines`  
